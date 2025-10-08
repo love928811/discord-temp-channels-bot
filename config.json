@@ -1,8 +1,8 @@
 {
     "token":"your_token",
     "prefix":"!",
-    "channelVoiceId":"channel_id",
-    "categoryId":"category_id",
+    "channelVoiceId":"1425173713086583008",
+    "categoryId":"1425176824031477770",
     "voiceLimits":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,20,25,30,35,40,45,99],
     "emojis":{
         "public":"<:66346346:1138862136072880148>",
@@ -14,4 +14,5 @@
         "disconnect":"<:3646366:1138862195216752710>",
         "rename":"<:63463364364:1138862169958658230>"
     }
+
 }
